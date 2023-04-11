@@ -1,7 +1,8 @@
 # DESCRIPTION
 
-Hi there :)
-My name is Victor Ezego. I am an Azure Administrator.
+#Hi there :)
+My name is Victor Ezego. 
+I am an Azure Administrator.
 Specialist in Linux Server Setups (all distro's).
 
 Contact me personally at: dwaynevictor123@gmail.com
